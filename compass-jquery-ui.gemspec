@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.date = "2010-08-02"
 
   # Gem Details
-  s.name = "jquery-ui"
+  s.name = "compass-jquery-ui"
   s.authors = ["Ford Guo"]
   s.summary = %q{a jquery-ui integration with compass}
   s.description = %q{a jquery-ui integration compass}

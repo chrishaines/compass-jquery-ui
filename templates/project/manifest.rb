@@ -18,6 +18,7 @@ image 'jquery-ui/base/ui-icons_454545_256x240.png'
 image 'jquery-ui/base/ui-icons_888888_256x240.png'
 image 'jquery-ui/base/ui-icons_cd0a0a_256x240.png'
 
+image 'jquery-ui/humanity/ui-anim_basic_16x16.gif'
 image 'jquery-ui/humanity/ui-bg_flat_75_aaaaaa_40x100.png'
 image 'jquery-ui/humanity/ui-bg_glass_100_f5f0e5_1x400.png'
 image 'jquery-ui/humanity/ui-bg_glass_25_cb842e_1x400.png'
