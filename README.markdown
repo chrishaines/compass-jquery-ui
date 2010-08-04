@@ -7,6 +7,6 @@
 1. add the dependency in Gemfile
 		$ gem 'compass-jquery-ui'
     
-2. add the require in config/compass.rb
+1. add the require in config/compass.rb
 		$ require "jquery-ui"
     
