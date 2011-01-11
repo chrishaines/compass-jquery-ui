@@ -1,0 +1,99 @@
+/* Default values for the theme, these are overridden by a user */
+
+// Font section
+$jquery-ui-font-family: Verdana, Arial, sans-serif !default;
+$jquery-ui-font-size: 1.1em !default;
+$jquery-ui-font-weight: normal !default;
+
+// Corner radius
+$jquery-ui-radius: 4px !default;
+
+// Header/Toolbar section
+$jquery-ui-header-font-color: #222222 !default;
+$jquery-ui-header-border-color: #aaaaaa !default;
+$jquery-ui-header-background-color: #cccccc !default;
+$jquery-ui-header-background-image: image-url("jquery_themes/ui-bg_highlight-soft_75_cccccc_1x100.png") !default;
+$jquery-ui-header-background-x-position: 50% !default;
+$jquery-ui-header-background-y-position: 50% !default;
+$jquery-ui-header-background-repeat: repeat-x !default;
+$jquery-ui-header-icons-image: image-url("jquery_themes/ui-icons_222222_256x240.png") !default;
+
+// Content section
+$jquery-ui-content-font-color: #222222 !default;
+$jquery-ui-content-border-color: #aaaaaa !default;
+$jquery-ui-content-background-color: #ffffff !default;
+$jquery-ui-content-background-image: image-url("jquery_themes/ui-bg_flat_75_ffffff_40x100.png") !default;
+$jquery-ui-content-background-x-position: 50% !default;
+$jquery-ui-content-background-y-position: 50% !default;
+$jquery-ui-content-background-repeat: repeat-x !default;
+$jquery-ui-content-icons-image: image-url("jquery_themes/ui-icons_222222_256x240.png") !default;
+
+// Clickable: default state
+$jquery-ui-default-state-font-color: #555555 !default;
+$jquery-ui-default-state-border-color: #d3d3d3 !default;
+$jquery-ui-default-state-background-color: #e6e6e6 !default;
+$jquery-ui-default-state-background-image: image-url("jquery_themes/ui-bg_glass_75_e6e6e6_1x400.png") !default;
+$jquery-ui-default-state-background-x-position: 50% !default;
+$jquery-ui-default-state-background-y-position: 50% !default;
+$jquery-ui-default-state-background-repeat: repeat-x !default;
+$jquery-ui-default-state-icons-image: image-url("jquery_themes/ui-icons_888888_256x240.png") !default;
+
+// Clickable: hover state
+$jquery-ui-hover-state-font-color: #212121 !default;
+$jquery-ui-hover-state-border-color: #999999 !default;
+$jquery-ui-hover-state-background-color: #dadada !default;
+$jquery-ui-hover-state-background-image: image-url("jquery_themes/ui-bg_glass_75_dadada_1x400.png") !default;
+$jquery-ui-hover-state-background-x-position: 50% !default;
+$jquery-ui-hover-state-background-y-position: 50% !default;
+$jquery-ui-hover-state-background-repeat: repeat-x !default;
+$jquery-ui-hover-state-icons-image: image-url("jquery_themes/ui-icons_454545_256x240.png") !default;
+
+// Clickable: active state
+$jquery-ui-active-state-font-color: #212121 !default;
+$jquery-ui-active-state-border-color: #aaaaaa !default;
+$jquery-ui-active-state-background-color: #ffffff !default;
+$jquery-ui-active-state-background-image: image-url("jquery_themes/ui-bg_glass_65_ffffff_1x400.png") !default;
+$jquery-ui-active-state-background-x-position: 50% !default;
+$jquery-ui-active-state-background-y-position: 50% !default;
+$jquery-ui-active-state-background-repeat: repeat-x !default;
+$jquery-ui-active-state-icons-image: image-url("jquery_themes/ui-icons_454545_256x240.png") !default;
+
+// Highlight
+$jquery-ui-highlight-font-color: #363636 !default;
+$jquery-ui-highlight-border-color: #fcefa1 !default;
+$jquery-ui-highlight-background-color: #fbf9ee !default;
+$jquery-ui-highlight-background-image: image-url("jquery_themes/ui-bg_glass_55_fbf9ee_1x400.png") !default;
+$jquery-ui-highlight-background-x-position: 50% !default;
+$jquery-ui-highlight-background-y-position: 50% !default;
+$jquery-ui-highlight-background-repeat: repeat-x !default;
+$jquery-ui-highlight-icons-image: image-url("jquery_themes/ui-icons_2e83ff_256x240.png") !default;
+
+// Error
+$jquery-ui-error-font-color: #cd0a0a !default;
+$jquery-ui-error-border-color: #cd0a0a !default;
+$jquery-ui-error-background-color: #fef1ec !default;
+$jquery-ui-error-background-image: image-url("jquery_themes/ui-bg_glass_95_fef1ec_1x400.png") !default;
+$jquery-ui-error-background-x-position: 50% !default;
+$jquery-ui-error-background-y-position: 50% !default;
+$jquery-ui-error-background-repeat: repeat-x !default;
+$jquery-ui-error-icons-image: image-url("jquery_themes/ui-icons_cd0a0a_256x240.png") !default;
+
+// Modal Screen
+$jquery-ui-modal-background-color: #aaaaaa !default;
+$jquery-ui-modal-background-image: image-url("jquery_themes/ui-bg_flat_0_aaaaaa_40x100.png") !default;
+$jquery-ui-modal-background-x-position: 50% !default;
+$jquery-ui-modal-background-y-position: 50% !default;
+$jquery-ui-modal-background-repeat: repeat-x !default;
+$jquery-ui-modal-opacity: .3 !default;
+
+// Drop Shadows
+$jquery-ui-shadow-background-color: #aaaaaa !default;
+$jquery-ui-shadow-background-image: image-url("jquery_themes/ui-bg_flat_0_aaaaaa_40x100.png") !default;
+$jquery-ui-shadow-background-x-position: 50% !default;
+$jquery-ui-shadow-background-y-position: 50% !default;
+$jquery-ui-shadow-background-repeat: repeat-x !default;
+$jquery-ui-shadow-opacity: .3 !default;
+$jquery-ui-shadow-thickness: 8px !default;
+$jquery-ui-shadow-top-offset: -8px !default;
+$jquery-ui-shadow-left-offset: -8px !default;
+$jquery-ui-shadow-radius: 8px !default;

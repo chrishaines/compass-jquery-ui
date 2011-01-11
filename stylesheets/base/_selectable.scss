@@ -1,0 +1,17 @@
+/*
+ * jQuery UI CSS Framework 1.8.7
+ *
+ * Copyright 2010, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Theming/API
+ */
+
+@mixin jquery_ui_selectable {
+  .ui-selectable-helper {
+    position: absolute;
+    z-index: 100;
+    border:1px dotted black;
+  }
+}
